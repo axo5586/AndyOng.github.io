@@ -1,0 +1,23 @@
+@import url('http://fonts.googleapis.com/css?family=Asap');
+
+body
+{
+    text-align: center;
+    background-color: lavender;    
+    color: black;
+    font-family: 'Asap', sans-serif;
+    margin: auto 0;
+    display: block;
+}
+
+#container
+{
+    background-color: white;
+    min-height: 25em;
+    min-width: 20em;
+}
+
+img
+{
+    text-align: center;
+}
